@@ -41,7 +41,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn jupyter
    ```bash
    jupyter notebook
    ```
-4. Open `PRAC1.ipynb` or `PRAC2.ipynb` to view the code and execute the cells step by step.
+4. Open `PRAC1.ipynb` or `PRAC2.ipynb` or `PRAC3.ipynb` to view the code and execute the cells step by step.
 
 ---
 *Created for Semester 5 - Machine Learning Lab*
